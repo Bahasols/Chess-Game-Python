@@ -1,0 +1,2 @@
+-Run PIP INSTALL PYGAME
+-Run Pychess.py
