@@ -1,2 +1,1 @@
--Run PIP INSTALL PYGAME \n
--Run Pychess.py
+-Run PIP INSTALL PYGAME and then execute Pychess.py
